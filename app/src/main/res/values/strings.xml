@@ -1,9 +1,15 @@
 <resources>
-    <string name="app_name">Two Activity</string>
-    <string name="button_main">Send</string>
-    <string name="text_header">Message received</string>
-    <string name="editText_main">Enter your message here!</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply here!</string>
-    <string name="text_header_reply">Reply received</string>
+    <string name="app_name">Shopping list</string>
+    <string name="add_item">Add Item</string>
+    <string name="eggs">Eggs</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="milk">Milk</string>
+    <string name="wheat_flour">Protein shake</string>
+    <string name="bread">Meat</string>
+    <string name="sugar">steak</string>
+    <string name="salt">sugar</string>
+    <string name="oil">brownie</string>
+    <string name="chocolate">dairy milk</string>
+    <string name="space" />
 </resources>
