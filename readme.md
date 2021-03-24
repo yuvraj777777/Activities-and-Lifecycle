@@ -1,5 +1,4 @@
 ACTIVITY LIFECYCLE AND STATE
 ==========================
-##TASK1: ADD LIFECYCLE AND CALLBACKS TO TWO ACTIVITIES
-<img height="700" width="50%" src="screenshot/a1.png"><br>
-<img height="700" width="50%" src="screenshot/a2.PNG"><br>
+##TASK2:SAVE AND STORE THE ACTIVITY INSTANCE STATE
+![](./screenshot/gif2.gif) 
